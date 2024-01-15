@@ -3,7 +3,7 @@ software developer based in Málaga, specializing in web technologies. In my fre
 
 ### Experience:
 
-- **Years of Experience:** 3 years ⌛
+- **Years of Experience:** 4 years ⌛
 - **Areas of Specialization:** Front-end, Back-end 💻
 
 ### Technologies/Frameworks:
