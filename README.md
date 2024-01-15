@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **developer.laraes@gmail.com**
 
-- ⚡ Fun fact **I :hearth: gremlins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
