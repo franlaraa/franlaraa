@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Lara</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franlaraa&label=Profile%20views&color=b585e5&style=flat" alt="franlaraa" /> </p>
 
