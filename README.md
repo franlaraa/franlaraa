@@ -45,6 +45,7 @@ software developer based in Málaga, specializing in web technologies. In my fre
 
 - [LinkedIn](https://www.linkedin.com/in/francisco-lara-natoli/)
 - [GitHub](https://github.com/franlaraa)
+- [My profile](https://lara-dev.com)
 
 ### Future Projects:
 
