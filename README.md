@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Francisco Lara Natoli 🚀
-software developer based in Málaga, specializing in web technologies. In my free time, I enjoy building personal projects and reading. Additionally, I've had the honor of serving as a volunteer in 3 editions of BiznagaFest.
+software developer based in Málaga, specializing in web technologies. In my free time, I enjoy building personal projects and reading. Additionally, I've had the honor of serving as a volunteer in 3 editions of [BiznagaFest](https://www.biznagafest.com/.
 
 ### Experience:
 
@@ -22,7 +22,7 @@ software developer based in Málaga, specializing in web technologies. In my fre
 
 - Database Management: MySQL, MongoDB 🛢️
 - Version Control: Git, GitHub
-
+- Development Environments: Windows, Linux
 ### Featured Projects:
 
 - **Moonpets - Functional Shelter Website 🐾:**
@@ -34,10 +34,7 @@ software developer based in Málaga, specializing in web technologies. In my fre
 
 - Volunteer 3 editions at [BiznagaFest](https://www.biznagafest.com/), a prominent tech event in Málaga with over 500 attendees.
 
-### Tools and Environments:
 
-- **Favorite Tools:** Visual Studio Code 🛠️
-- **Development Environments:** Windows, Linux
 
 ### Development Focus:
 
