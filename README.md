@@ -1,9 +1,9 @@
 # Hi! 👋 I'm Francisco Lara Natoli 🚀
-software developer based in Málaga, specializing in web technologies. In my free time, I enjoy building personal projects and reading. Additionally, I've had the honor of serving as a volunteer in 3 editions of [BiznagaFest](https://www.biznagafest.com/).
+Software developer based in Málaga, specializing in web technologies. In my free time, I enjoy building personal projects and reading. Additionally, I've had the honor of serving as a volunteer in 3 editions of [BiznagaFest](https://www.biznagafest.com/).
 
 ### Experience:
 
-- **Years of Experience:** 4 years ⌛
+- **Years of Experience:** 2 years ⌛
 - **Areas of Specialization:** Front-end, Back-end 💻
 
 ### Technologies/Frameworks:
@@ -21,7 +21,7 @@ software developer based in Málaga, specializing in web technologies. In my fre
 #### Others:
 
 - Database Management: MySQL, MongoDB 🛢️
-- Version Control: Git, GitHub
+- Version Control: Git, GitHub :octocat:
 - Development Environments: Windows, Linux
 ### Featured Projects:
 
@@ -33,7 +33,6 @@ software developer based in Málaga, specializing in web technologies. In my fre
 ### Collaboration and Contributions:
 
 - Volunteer 3 editions at [BiznagaFest](https://www.biznagafest.com/), a prominent tech event in Málaga with over 500 attendees.
-
 
 
 ### Development Focus:
@@ -49,7 +48,7 @@ software developer based in Málaga, specializing in web technologies. In my fre
 
 ### Future Projects:
 
-- Planning to develop an application with [NextJS](https://nextjs.org/).
+- Planning to develop an url shortener Web App.
 
 ### Other Relevant Information:
 
