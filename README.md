@@ -1,65 +1,65 @@
-# Francisco Lara Natoli
+# Francisco Lara Natoli 🚀
 
-## 📍 Ubicación: Málaga, Spain
+## 📍 Location: Málaga, Spain 🌞
 
-### Breve Introducción:
+### Brief Introduction:
 
-¡Hola! Soy Francisco Lara Natoli, un desarrollador de software con sede en Málaga, especializado en tecnologías web como NestJs y Angular. En mi tiempo libre, disfruto construyendo proyectos personales, abordando problemas desafiantes, leyendo, asistiendo a conferencias y contribuyendo a proyectos de código abierto. Además, he tenido el honor de servir como voluntario en 3 ediciones de BiznagaFest, un destacado evento tecnológico en Málaga con más de 500 asistentes.
+Hello! I'm Francisco Lara Natoli, a software developer based in Málaga, specializing in web technologies such as NestJs and Angular. In my free time, I enjoy building personal projects, tackling challenging problems, reading, attending conferences, and contributing to open source projects. Additionally, I've had the honor of serving as a volunteer in 3 editions of BiznagaFest, a prominent tech event in Málaga with over 500 attendees.
 
-### Experiencia:
+### Experience:
 
-- **Tiempo de Experiencia:** 3 años
-- **Áreas de Especialización:** Front-end, Back-end
+- **Years of Experience:** 3 years ⌛
+- **Areas of Specialization:** Front-end, Back-end 💻
 
-### Tecnologías/Frameworks:
+### Technologies/Frameworks:
 
-#### Lenguajes de Programación:
+#### Programming Languages:
 
 - Front: HTML, CSS/SCSS, JavaScript, jQuery
-- Back: PHP, Python
+- Back: PHP, Python 🐍
 
 #### Frameworks:
 
 - Front: Angular (16+), React, NextJs
 - Back: Laravel, NestJs
 
-#### Otros:
+#### Others:
 
-- Database Management: MySQL, MongoDB
+- Database Management: MySQL, MongoDB 🛢️
 - Version Control: Git, GitHub
 
-### Proyectos Destacados:
+### Featured Projects:
 
-- **Moonpets - Sitio Web de Refugio Funcional:**
-  Un sitio web funcional de refugio creado con Angular y NestJs. Una base de datos que posee refugios y programas de adopción de mascotas para reducir el abuso animal.
+- **Moonpets - Functional Shelter Website 🐾:**
+  A functional shelter website created with Angular and NestJs. It's a database that owns shelters and pet adoption programs to reduce animal abuse.
   
-  - Tecnologías Utilizadas: Angular, NestJs, Tailwind CSS
+  - Technologies Used: Angular, NestJs, Tailwind CSS
 
-### Colaboración y Contribuciones:
+### Collaboration and Contributions:
 
-- Voluntario en [BiznagaFest](https://www.biznagafest.com/), un congreso tecnológico en Málaga.
+- Volunteer at [BiznagaFest](https://www.biznagafest.com/), a tech conference in Málaga.
 
-### Herramientas y Entornos:
+### Tools and Environments:
 
-- **Herramientas Favoritas:** Visual Studio Code, Postman
-- **Entornos de Desarrollo:** Windows, Linux
+- **Favorite Tools:** Visual Studio Code, Postman 🛠️
+- **Development Environments:** Windows, Linux
 
-### Enfoque de Desarrollo:
+### Development Focus:
 
-- Enfoque práctico y adaptable.
-- Interés en metodologías ágiles.
+- Practical and adaptable approach.
+- Interest in agile methodologies.
 
-### Redes Sociales/Enlaces:
+### Social Media/Links:
 
 - [LinkedIn](https://www.linkedin.com/in/francisco-lara-natoli/)
 - [GitHub](https://github.com/franlaraa)
 
-### Futuros Proyectos:
+### Future Projects:
 
-- Planeo desarrollar una aplicación con [NextJS](https://nextjs.org/).
+- Planning to develop an application with [NextJS](https://nextjs.org/).
 
-### Otra Información Relevante:
+### Other Relevant Information:
 
-¡Siempre buscando aprender y crecer en el mundo del desarrollo!
+Always looking to learn and grow in the world of development! 🚀
 
-¡No dudes en contactarme para colaboraciones, preguntas o simplemente charlar sobre tecnología!
+Feel free to reach out for collaborations, questions, or just to chat about technology! 📬
