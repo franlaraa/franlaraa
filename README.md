@@ -1,10 +1,5 @@
-# Francisco Lara Natoli 🚀
-
-## 📍 Location: Málaga, Spain 🌞
-
-### Brief Introduction:
-
-Hello! I'm Francisco Lara Natoli, a software developer based in Málaga, specializing in web technologies such as NestJs and Angular. In my free time, I enjoy building personal projects, tackling challenging problems, reading, attending conferences, and contributing to open source projects. Additionally, I've had the honor of serving as a volunteer in 3 editions of BiznagaFest, a prominent tech event in Málaga with over 500 attendees.
+# Hi! 👋 I'm Francisco Lara Natoli 🚀
+software developer based in Málaga, specializing in web technologies. In my free time, I enjoy building personal projects and reading. Additionally, I've had the honor of serving as a volunteer in 3 editions of BiznagaFest.
 
 ### Experience:
 
@@ -37,11 +32,11 @@ Hello! I'm Francisco Lara Natoli, a software developer based in Málaga, special
 
 ### Collaboration and Contributions:
 
-- Volunteer at [BiznagaFest](https://www.biznagafest.com/), a tech conference in Málaga.
+- Volunteer 3 editions at [BiznagaFest](https://www.biznagafest.com/), a prominent tech event in Málaga with over 500 attendees.
 
 ### Tools and Environments:
 
-- **Favorite Tools:** Visual Studio Code, Postman 🛠️
+- **Favorite Tools:** Visual Studio Code 🛠️
 - **Development Environments:** Windows, Linux
 
 ### Development Focus:
