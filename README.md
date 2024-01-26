@@ -51,6 +51,7 @@ Software developer based in Málaga, specializing in web technologies. In my fre
 - Planning to develop an url shortener Web App.
 
 ### Other Relevant Information:
+![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=franlaraa&show_icons=true&theme=radical)
 
 Always looking to learn and grow in the world of development! 🚀
 
