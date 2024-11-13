@@ -1,10 +1,10 @@
 # Hi! 👋 I'm Francisco Lara Natoli 🚀
-Software developer based in Málaga, specializing in web technologies. In my free time, I enjoy building personal projects and reading. Additionally, I've had the honor of serving as a volunteer in 3 editions of [BiznagaFest](https://www.biznagafest.com/).
+Software developer based in Málaga, specializing in web technologies. In my free time, I enjoy building personal projects and reading. Additionally, I've had the honor of serving as part of the organization team  in 3 editions of [BiznagaFest](https://www.biznagafest.com/).
 
 ### Experience:
 
-- **Years of Experience:** 2 years ⌛
-- **Areas of Specialization:** Front-end, Back-end 💻
+- **Years of Experience:** 3 years ⌛
+- **Areas of Specialization:** Front-end, Back-end, Cibersecurity💻
 
 ### Technologies/Frameworks:
 
@@ -15,7 +15,7 @@ Software developer based in Málaga, specializing in web technologies. In my fre
 
 #### Frameworks:
 
-- Front: Angular (16+), React, NextJs
+- Front: Angular (17+), React, NextJs
 - Back: Laravel, NestJs
 
 #### Others:
